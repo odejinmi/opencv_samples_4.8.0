@@ -1,0 +1,3 @@
+C:/Users/DELL/Downloads/opencv-4.8.0/OpenCV-android-sdk/samples/face-detection/.cxx/Debug/2f5t126b/arm64-v8a/CMakeFiles/detection_based_tracker.dir
+C:/Users/DELL/Downloads/opencv-4.8.0/OpenCV-android-sdk/samples/face-detection/.cxx/Debug/2f5t126b/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/DELL/Downloads/opencv-4.8.0/OpenCV-android-sdk/samples/face-detection/.cxx/Debug/2f5t126b/arm64-v8a/CMakeFiles/rebuild_cache.dir

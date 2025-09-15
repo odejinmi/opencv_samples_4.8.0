@@ -1,0 +1,8 @@
+# Project exclude paths
+/.gradle/
+/build/
+/face-detection/build/
+/opencv/.gradle/
+/opencv/build/
+/opencv/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/
+/tutorial-2-mixedprocessing/build/

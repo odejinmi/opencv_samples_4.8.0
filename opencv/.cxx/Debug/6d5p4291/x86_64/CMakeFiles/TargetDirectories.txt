@@ -1,0 +1,3 @@
+C:/Users/DELL/Downloads/opencv-4.8.0/OpenCV-android-sdk/samples/opencv/.cxx/Debug/6d5p4291/x86_64/CMakeFiles/opencv_jni_shared.dir
+C:/Users/DELL/Downloads/opencv-4.8.0/OpenCV-android-sdk/samples/opencv/.cxx/Debug/6d5p4291/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/DELL/Downloads/opencv-4.8.0/OpenCV-android-sdk/samples/opencv/.cxx/Debug/6d5p4291/x86_64/CMakeFiles/rebuild_cache.dir

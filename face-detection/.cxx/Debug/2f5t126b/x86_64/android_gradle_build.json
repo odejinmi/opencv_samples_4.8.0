@@ -1,0 +1,40 @@
+{
+  "buildFiles": [
+    "C:\\Users\\DELL\\Downloads\\opencv-4.8.0\\OpenCV-android-sdk\\samples\\face-detection\\jni\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\DELL\\Downloads\\opencv-4.8.0\\OpenCV-android-sdk\\samples\\face-detection\\.cxx\\Debug\\2f5t126b\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\DELL\\Downloads\\opencv-4.8.0\\OpenCV-android-sdk\\samples\\face-detection\\.cxx\\Debug\\2f5t126b\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "detection_based_tracker::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "detection_based_tracker",
+      "output": "C:\\Users\\DELL\\Downloads\\opencv-4.8.0\\OpenCV-android-sdk\\samples\\face-detection\\build\\intermediates\\cxx\\Debug\\2f5t126b\\obj\\x86_64\\libdetection_based_tracker.so",
+      "runtimeFiles": [
+        "C:\\Users\\DELL\\Downloads\\opencv-4.8.0\\OpenCV-android-sdk\\sdk\\native\\libs\\x86_64\\libopencv_java4.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

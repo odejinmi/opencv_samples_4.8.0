@@ -1,0 +1,1 @@
+C:\Users\DELL\Downloads\opencv-4.8.0\OpenCV-android-sdk\samples\opencv\build\intermediates\cxx\Debug\6d5p4291\obj\x86_64

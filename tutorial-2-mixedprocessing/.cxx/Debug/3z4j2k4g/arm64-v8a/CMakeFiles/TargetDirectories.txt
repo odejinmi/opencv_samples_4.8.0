@@ -1,0 +1,3 @@
+C:/Users/DELL/Downloads/opencv-4.8.0/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/.cxx/Debug/3z4j2k4g/arm64-v8a/CMakeFiles/mixed_sample.dir
+C:/Users/DELL/Downloads/opencv-4.8.0/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/.cxx/Debug/3z4j2k4g/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/DELL/Downloads/opencv-4.8.0/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/.cxx/Debug/3z4j2k4g/arm64-v8a/CMakeFiles/rebuild_cache.dir

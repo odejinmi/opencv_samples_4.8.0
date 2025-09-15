@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "mixed_sample",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "mixed_sample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mixed_sample-Debug-63dfb478ea52d0bc969c.json",
+					"name" : "mixed_sample",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/DELL/Downloads/opencv-4.8.0/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/.cxx/Debug/3z4j2k4g/arm64-v8a",
+		"source" : "C:/Users/DELL/Downloads/opencv-4.8.0/OpenCV-android-sdk/samples/tutorial-2-mixedprocessing/jni"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
